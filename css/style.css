@@ -786,7 +786,7 @@ p, a, li, span, input, textarea, button {
 
 /* Footer */
 .footer {
-  background: #2C3E50;
+  background: #47617a;
   color: #CFAE83;
   padding: 2rem 0;
   font-size: 0.9rem;
@@ -1029,6 +1029,7 @@ p, a, li, span, input, textarea, button {
   background-color: #1A2A38; /* darker on hover */
   transform: scale(1.05);
 }
+
 
 
 
