@@ -756,6 +756,20 @@ p, a, li, span, input, textarea, button {
   opacity: 0.8;
 }
 
+.social-icons a.whatsapp-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #25D366; /* WhatsApp green */
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.social-icons a.whatsapp-link img {
+  width: 28px;
+  height: 28px;
+}
+
 /* Map container */
 .map-container {
   width: 100%;
