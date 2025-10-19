@@ -131,7 +131,7 @@ p, a, li, span, input, textarea, button {
 }
 
 .btn {
-  background: rgba(139, 69, 19, 0.7);
+  background: rgba(139, 69, 19, 0.75);
   color: #fff;
   text-decoration: none;
   padding: 0.8rem 1.8rem;
@@ -408,7 +408,7 @@ p, a, li, span, input, textarea, button {
 }
 
 .search-form button {
-  background: rgba(139, 69, 19, 0.85);
+  background: rgba(139, 69, 19, 1);
   color: #fff;
   border: none;
   padding: 0.9rem 2rem;
@@ -732,6 +732,7 @@ p, a, li, span, input, textarea, button {
 
 .contact-form button { 
   align-self: flex-start; 
+  background: rgba(139, 69, 19, 1);
 }
 
 /* Social icons under contact */
